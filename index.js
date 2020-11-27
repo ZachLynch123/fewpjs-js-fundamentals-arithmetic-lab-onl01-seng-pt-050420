@@ -2,7 +2,10 @@
 
 
 
-function multiply(num1, num2) {
+function multiply() {
+  num1 = 2 
+  num2 = 31
+  
   return num1 * num2
 }
 
