@@ -3,7 +3,7 @@
 
 
 function multiply() {
-  
+  return 2 * 31
 }
 
 
